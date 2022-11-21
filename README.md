@@ -1,2 +1,2 @@
 # Watercolor-Meditation
-a daily creativity practice that became a meditation practice
+## A daily creativity practice that became a meditation practice
